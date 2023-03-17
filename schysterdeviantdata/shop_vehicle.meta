@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_DEVIANT2</lockHash>
+			<modelNameHash>Seraph</modelNameHash>
+			<cost value="100"/>
+			<textLabel>DEVIANT2</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
